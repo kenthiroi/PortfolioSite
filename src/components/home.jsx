@@ -1,8 +1,8 @@
 import React from "react";
+import SideNav from "./sideNav";
 
-const Home = () => {
+function Home() {
   return <>
-    {/* Sidenav */}
     <div id="page-contents">
     </div>
     <div id="page-background">
