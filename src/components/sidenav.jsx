@@ -1,7 +1,9 @@
 import React from "react";
 import Link from "next/link";
 
-function SideNav(){
+export default function SideNav(){
+
+
   return <div id="side-nav">
     {/* Main, About Me, Projects (Code), Events (Esports), Resume */}
     <ul>
@@ -15,7 +17,7 @@ function SideNav(){
         <Link href="/projects">Projects</Link>
       </li>
       <li>
-        <Link href="/events">Events/Broadcasts</Link>
+        <Link href="/events_worked">Events/Broadcasts</Link>
       </li>
       <li>
         <Link href="/resume">Resume</Link>
@@ -23,5 +25,3 @@ function SideNav(){
     </ul>
   </div>
 }
-
-export default SideNav;
