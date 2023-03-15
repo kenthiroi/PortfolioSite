@@ -10,7 +10,7 @@ function EventsWorked(){
       - July 7th, Bay Area Brawl. A regional tournament for Tekken 7, Street Fighter V, Dragon Ball FighterZ and Blazblue Cross Tag Battle at ESA Oakland.
     </div>
     <div>
-      - July 7th, Capcom Pro Tour Online 2018 NA West 2. Ran a broadcast for an online bracket for SFV Top 8 with LevelupLive.
+      - July 7th, Capcom Pro Tour Online 2018 NA West 2. Directed a broadcast for an online top 8 bracket for Street Fighter V with LevelupLive.
     </div>
     <div>
       - July 14th, HCT Oakland. A national Hearthstone major at ESA Oakland.
