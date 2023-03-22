@@ -57,6 +57,15 @@ function EventsWorked(){
     
     <div>
       Esports Engine
+      <div>
+        - Twitch Rivals
+        <div>
+          - Marvel Lives - Bracket Admin
+        </div>
+        <div>
+          - Doritos Bowl Warzone NA (12/8, 12/16) - Bracket Admin
+        </div>
+      </div>
     </div>
 
     <h1>2021</h1>
@@ -64,6 +73,12 @@ function EventsWorked(){
       - Ronin Rumble 
       <div>
         - One off series with Tekken 7, Killer Instinct, Blazblue Cross Tag Battle
+      </div>
+    </div>
+    <div>
+      Esports Engine
+      <div>
+        
       </div>
     </div>
   </div>
