@@ -2078,16 +2078,20 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #d74e4e;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #19f0ff;
 		}
 
 		.icon.style3 {
 			color: #76ddff;
 		}
+
+    .icon.style4 {
+      color: #5c5c5c;
+    }
 
 /* Image */
 
